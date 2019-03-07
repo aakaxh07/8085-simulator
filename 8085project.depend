@@ -1,0 +1,113 @@
+# depslib dependency file v1.0
+1551701236 source:c:\users\im_aakash07\desktop\8085project\genralpurpose.cpp
+	"header.h"
+
+1551701482 c:\users\im_aakash07\desktop\8085project\header.h
+	"predefine.h"
+
+1551523911 c:\users\im_aakash07\desktop\8085project\predefine.h
+	<bits/stdc++.h>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<cstring>
+	<vector>
+	<map>
+	<fstream>
+	<sstream>
+	<climits>
+
+1551701264 source:c:\users\im_aakash07\desktop\8085project\main.cpp
+	"header.h"
+	"secondclass.cpp"
+
+1551701233 c:\users\im_aakash07\desktop\8085project\secondclass.cpp
+	"header.h"
+	"onebitss.cpp"
+	"secondbitss.cpp"
+	"thirdbitss.cpp"
+
+1551685011 c:\users\im_aakash07\desktop\8085project\onebitss.cpp
+	"header.h"
+
+1551532490 source:c:\users\im_aakash07\desktop\8085project\arithmatic.cpp
+	"header.h"
+
+1551631027 c:\users\im_aakash07\desktop\8085project\secondbitss.cpp
+	"header.h"
+
+1551685402 c:\users\im_aakash07\desktop\8085project\thirdbitss.cpp
+	"header.h"
+
+1551685011 source:c:\users\im_aakash07\desktop\8085project\onebitss.cpp
+	"header.h"
+
+1551631027 source:c:\users\im_aakash07\desktop\8085project\secondbitss.cpp
+	"header.h"
+
+1551701233 source:c:\users\im_aakash07\desktop\8085project\secondclass.cpp
+	"header.h"
+	"onebitss.cpp"
+	"secondbitss.cpp"
+	"thirdbitss.cpp"
+
+1551685402 source:c:\users\im_aakash07\desktop\8085project\thirdbitss.cpp
+	"header.h"
+
+1551532490 source:c:\users\im_aakash07\desktop\abc\arithmatic.cpp
+	"header.h"
+
+1551870501 c:\users\im_aakash07\desktop\abc\header.h
+	"predefine.h"
+
+1551523911 c:\users\im_aakash07\desktop\abc\predefine.h
+	<bits/stdc++.h>
+	<iostream>
+	<cmath>
+	<cstdlib>
+	<string>
+	<cstring>
+	<vector>
+	<map>
+	<fstream>
+	<sstream>
+	<climits>
+
+1551870106 source:c:\users\im_aakash07\desktop\abc\genralpurpose.cpp
+	"header.h"
+
+1551723267 source:c:\users\im_aakash07\desktop\abc\onebitss.cpp
+	"header.h"
+
+1551631027 source:c:\users\im_aakash07\desktop\abc\secondbitss.cpp
+	"header.h"
+
+1551870908 source:c:\users\im_aakash07\desktop\abc\secondclass.cpp
+	"header.h"
+	"onebitss.cpp"
+	"secondbitss.cpp"
+	"thirdbitss.cpp"
+
+1551723267 c:\users\im_aakash07\desktop\abc\onebitss.cpp
+	"header.h"
+
+1551631027 c:\users\im_aakash07\desktop\abc\secondbitss.cpp
+	"header.h"
+
+1551722260 c:\users\im_aakash07\desktop\abc\thirdbitss.cpp
+	"header.h"
+
+1551722260 source:c:\users\im_aakash07\desktop\abc\thirdbitss.cpp
+	"header.h"
+
+1551723300 source:c:\users\im_aakash07\desktop\abc\main.cpp
+	"header.h"
+	"secondclass.cpp"
+
+1551870908 c:\users\im_aakash07\desktop\abc\secondclass.cpp
+	"header.h"
+	"onebitss.cpp"
+	"secondbitss.cpp"
+	"thirdbitss.cpp"
+

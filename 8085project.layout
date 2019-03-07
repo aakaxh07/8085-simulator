@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="genralpurpose.cpp" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="6226" topLine="363" />
+		</Cursor>
+	</File>
+	<File name="thirdbitss.cpp" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="43" topLine="3" />
+		</Cursor>
+		<Folding>
+			<Collapse line="9" />
+			<Collapse line="11" />
+			<Collapse line="12" />
+			<Collapse line="23" />
+		</Folding>
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1862" topLine="107" />
+		</Cursor>
+	</File>
+	<File name="secondbitss.cpp" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1965" topLine="25" />
+		</Cursor>
+		<Folding>
+			<Collapse line="10" />
+		</Folding>
+	</File>
+	<File name="onebitss.cpp" open="1" top="1" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="5700" topLine="133" />
+		</Cursor>
+		<Folding>
+			<Collapse line="14" />
+			<Collapse line="37" />
+		</Folding>
+	</File>
+	<File name="predefine.h" open="0" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="44" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="secondclass.cpp" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="header.h" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="326" topLine="7" />
+		</Cursor>
+	</File>
+	<File name="arithmatic.cpp" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1029" topLine="38" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>
